@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>2123.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/2/2123.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reservado merlot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>6</ymin>
+			<xmax>224</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>30</folder>
+	<filename>30047.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/30/30047.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casillero del diablo rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>11</ymin>
+			<xmax>208</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

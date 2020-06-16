@@ -1,0 +1,26 @@
+<annotation>
+	<folder>23</folder>
+	<filename>23_37.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/23/23_37.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marques de casa concha carmenere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>5</ymin>
+			<xmax>298</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

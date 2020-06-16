@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9</folder>
+	<filename>9043.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/9/9043.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frontera merlot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>1</ymin>
+			<xmax>283</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

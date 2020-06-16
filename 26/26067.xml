@@ -1,0 +1,26 @@
+<annotation>
+	<folder>26</folder>
+	<filename>26067.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/26/26067.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trio chardonnay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>18</ymin>
+			<xmax>260</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>10_144.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/10/10_144.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frontera carmenere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>17</ymin>
+			<xmax>247</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

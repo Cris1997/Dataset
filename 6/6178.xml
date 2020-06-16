@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>6178.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/6/6178.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reservado rose</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>1</ymin>
+			<xmax>275</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

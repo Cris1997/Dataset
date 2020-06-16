@@ -1,0 +1,26 @@
+<annotation>
+	<folder>18</folder>
+	<filename>18111.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/18/18111.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casillero del diablo pinot noir</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>37</ymin>
+			<xmax>220</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

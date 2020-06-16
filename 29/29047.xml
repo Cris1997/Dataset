@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29</folder>
+	<filename>29047.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/29/29047.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>diablo dark red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>18</ymin>
+			<xmax>242</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

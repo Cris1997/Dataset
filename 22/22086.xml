@@ -1,0 +1,26 @@
+<annotation>
+	<folder>22</folder>
+	<filename>22086.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/22/22086.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marques de casa concha merlot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>29</ymin>
+			<xmax>224</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

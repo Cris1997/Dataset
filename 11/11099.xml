@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11</folder>
+	<filename>11099.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/DeepLearning3/VinosEtiquetados/11/11099.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frontera cabernet sauvignon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>1</ymin>
+			<xmax>279</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>frontera carmenere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>29</ymin>
+			<xmax>265</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>3_93.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/3/3_93.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reservado carmenere</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>22</ymin>
+			<xmax>205</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

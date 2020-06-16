@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rotadas</folder>
+	<filename>IMG_9340.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/malbec/rotadas/IMG_9340.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casillero del diablo malbec</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>1</ymin>
+			<xmax>279</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

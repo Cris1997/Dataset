@@ -1,0 +1,26 @@
+<annotation>
+	<folder>25</folder>
+	<filename>25050.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/25/25050.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trio merlot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>11</ymin>
+			<xmax>225</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

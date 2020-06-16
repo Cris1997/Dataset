@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7</folder>
+	<filename>7183.JPG</filename>
+	<path>/Users/cristianrosales/Desktop/TrabajoTerminal/VinosCyT/7/7183.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reservado white zinfandel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>36</ymin>
+			<xmax>260</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
