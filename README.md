@@ -1,6 +1,8 @@
 # Dataset
 
-En este repositorio se encuentra el dataset completo usado para desarrollar el módulo de reconocimiento de vinos.
+En este repositorio se encuentra el dataset completo usado para desarrollar el módulo de reconocimiento de vinos. Cada una de las carpetas tiene por nombre el número de clase a la que pertenecen los datos que están dentro de la misma. 
+
+La siguiente lista presenta una muestra de cada clase sobre lo que puede encontrar la persona que consulte este repositorio.
 
 
 ## 1.- Reservado Cabernet Sauvignon
