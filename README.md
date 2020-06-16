@@ -5,7 +5,9 @@ En este repositorio se encuentra el dataset completo usado para desarrollar el m
 
 ## 1.- Reservado Cabernet Sauvignon
 
-![Test Image 4](https://github.com/Cris1997/Dataset/blob/master/1/10.JPG)
+<p align="center"> 
+<img src="https://github.com/Cris1997/Dataset/blob/master/1/10.JPG">
+</p>
 
 ## 2.- Reservado Merlot
 
